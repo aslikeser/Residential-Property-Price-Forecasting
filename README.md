@@ -104,6 +104,11 @@ Realizing the extensive sales to foreigners and hopefully aiming to curb further
 
 For a more detailed exploration of these findings and the impact of government policies on foreign investment, please refer to the corresponding figures presented in my GitHub repository.
 
+## Machine Learning Model
+In our pursuit of creating a forecasting model for the residential property price index, the focus of this project lies in predicting a continuous quantity rather than a categorical outcome. To achieve this, we employed regression models with diverse parameters, utilizing historical data spanning eight years (2014 to 2021). The primary objective was to accurately forecast the residential property price index for Istanbul in the years 2022 and 2023.
+
+Ensuring optimal performance of our model necessitated the exploration of various hyperparameters in machine learning. Through a thorough examination of different regression models and careful consideration of hyperparameter settings, we embarked on the training of an extensive array of 26,400 machine learning models. This exhaustive approach allowed us to identify and select the best-performing model, ensuring its efficacy in predicting the residential property price index with precision and reliability.
+
 
 __Note:__ From “Eksi Sozluk” aka “Reddit of Turkey”, extract every entry relating to buying a house and apply sentiment analysis to reflect how Turkish people’s opinion of buying a house is affected by the volatility of the real estate market this will help the predictive model to take into account the speculation component of real estate market.
 
