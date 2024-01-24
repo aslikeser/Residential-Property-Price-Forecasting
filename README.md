@@ -89,8 +89,19 @@ The volatile nature of the Turkish real estate market demands an understanding o
 | **Residential Property Price Index (RPPI)**|
 | `res_price_index_ist` | PPI for all residential buildings in Istanbul |  
 
+<ins>**Data Range and Frequency**</ins>   
 ## Data Analysis
+In conclusion of my comprehensive exploratory data analysis on real estate price fluctuations in Turkey, it is evident that <ins>the residential real estate market is highly sensitive to foreign investment</ins>. Notably, <ins>government policies concerning foreign investment</ins>, coupled with <ins>global economic and political trends</ins>, exert a significant influence on the fluctuations observed in the Turkish real estate market.
 
+In October 2018, the Turkish government announced a substantial reduction in the threshold for gaining Turkish citizenship through investment, decreasing it from $1 million to $250,000. This policy shift positioned Turkey as an attractive destination for investment migration, particularly for individuals from politically unstable countries surrounding Turkey. However, the subsequent surge in foreign demand for real estate in Turkey had repercussions. As the demand increased, so did housing prices, rendering the market less accessible for Turkish citizens.
+
+Based on data provided by the Central Bank of the Republic of Turkey, a substantial portion of foreign investments in real estate is concentrated in five key cities: Istanbul, Antalya, Izmir, Mugla, and Mersin. Over the past decade, three countries —Russia, Iran, and Iraq— have dominated these investments, accounting for as much as 56% of the total. The period following 2022 saw a notable increase in Russian interest in the Turkish real estate market, influenced in part by the Russia-Ukraine war.
+
+During the initial six months following the commencement of the Russia-Ukraine war, residential property sales in the top five cities in Turkey experienced a significant surge. Notably, one in every six sales during this period was attributed to foreign buyers.
+
+<p align="center"><img src="image/5_readme_data_analysis_image.png" width="800" " /></p>
+
+For a more detailed exploration of these findings and the impact of government policies on foreign investment, please refer to the corresponding figures presented in my GitHub repository.
 
 
 __Note:__ From “Eksi Sozluk” aka “Reddit of Turkey”, extract every entry relating to buying a house and apply sentiment analysis to reflect how Turkish people’s opinion of buying a house is affected by the volatility of the real estate market this will help the predictive model to take into account the speculation component of real estate market.
