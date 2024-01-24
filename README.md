@@ -2,17 +2,21 @@
 Utilized advanced machine learning techniques to develop a robust model forecasting residential property price indices (RPPI) in Istanbul, Turkey.
 
 **Authors and Contact Information:** 
-- [Asli Keser](https://github.com/aslikeser) - 
-- [Linkedin](https://www.linkedin.com/in/asli-keser/) (Email: aslikeser7@gmail.com)
+- [Asli Keser](https://github.com/aslikeser)
+- [Linkedin](https://www.linkedin.com/in/asli-keser/)
+- [aslikeser7@gmail.com](mailto:aslikeser7@gmail.com)
 
 ## Overview
 In the last two years, housing prices in Turkey have skyrocketed, quadrupling in an unprecedented surge that has reshaped the real estate landscape.
-The volatile nature of the Turkish real estate market demands accurate forecasting of housing prices. 
+The volatile nature of the Turkish real estate market demands accurate forecasting of housing prices.
 
+## Business Problem
 This project aims to leverage predictive analytics techniques on historical housing data to develop a robust machine learning model, enabling stakeholders to
 - anticipate future price trends,
 - navigate market fluctuations,
 - make informed decisions in the evolving landscape of the Turkish housing market.
+
+The volatile nature of the Turkish real estate market demands understanding the market dynamics and accurate forecasting of housing prices.
 
 ### What is Residential Property Price Index (RPPI)?    
 Residential Property Price Index is a measure that tracks changes in the prices of residential properties over time.
@@ -83,10 +87,9 @@ It is a key indicator used in the field of economics and real estate to analyze 
 | **Residential Property Price Index (RPPI)**|
 | `res_price_index_ist` | PPI for all residential buildings in Istanbul |
 
-Data Sources:
-
-https://evds2.tcmb.gov.tr/ -> Database of the Central Bank of the Republic of Turkey    
-https://trends.google.com/trends/ -> Google Trends
+### Data Sources:
+[Database of the Central Bank of the Republic of Turkey](https://evds2.tcmb.gov.tr/)    
+[Google Trends](https://trends.google.com/trends/)    
 
 
 
