@@ -7,8 +7,12 @@ Utilized advanced machine learning techniques to develop a robust model forecast
 - [aslikeser7@gmail.com](mailto:aslikeser7@gmail.com)
 
 ## Overview
-In the last two years, housing prices in Turkey have skyrocketed, quadrupling in an unprecedented surge that has reshaped the real estate landscape.
+In the last two years, housing prices in Turkey have skyrocketed, **quadrupling** in an unprecedented surge that has reshaped the real estate landscape.
 The volatile nature of the Turkish real estate market demands accurate forecasting of housing prices.
+
+<p align="center"><img src="image/1_readme_overview_image.png" width="70%" height="70%" /></p>
+
+Also, in the last two years, the number of years spent to save a **30% down payment** for a **750 sq ft apartment** with the assumption that **the amount of net minimum wage saved every month** got as high as **13.3 years**. 
 
 <p align="center"><img src="image/1_readme_overview_image.png" width="70%" height="70%" /></p>
 
