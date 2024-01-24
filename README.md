@@ -16,7 +16,7 @@ The volatile nature of the Turkish real estate market demands accurate forecasti
 
 Also, in the last two years, the number of years spent to save a **30% down payment** for a **750 sq ft apartment** with the assumption that **the amount of net minimum wage saved every month** got as high as **13.3 years**. 
 
-<p align="center"><img src="image/2_readme_overview_image.png" width="70%" height="70%" /></p>
+<p align="center"><img src="image/2_readme_overview_image.png" width="90%" height="90%" /></p>
 
 ## Business Problem
 This project aims to leverage predictive analytics techniques on historical housing data to develop a robust machine learning model, enabling stakeholders to
