@@ -1,5 +1,7 @@
-# Residential Property Price Forecasting
+# Residential Property Price Index Forecasting Project
 Utilized advanced machine learning techniques to develop a robust model forecasting residential property price indices (RPPI) in Istanbul, Turkey.
+
+<p align="center"><img src="image/3_readme_rppi_definition_image.png" width="70%" height="70%" /></p>
 
 **Authors and Contact Information:** 
 - [Asli Keser](https://github.com/aslikeser)
@@ -23,10 +25,6 @@ This project aims to leverage predictive analytics techniques on historical hous
 - make informed decisions in the evolving landscape of the Turkish housing market.
 
 The volatile nature of the Turkish real estate market demands an understanding of the market dynamics and accurate forecasting of housing prices.
-
-### What is the Residential Property Price Index (RPPI)?    
-The Residential Property Price Index is a measure that tracks changes in the prices of residential properties over time.
-It is a key indicator used in the field of economics and real estate to analyze and understand trends in the housing market.
 
 ### What factors contribute to changes in housing prices?
 - Supply and Demand Dynamics
