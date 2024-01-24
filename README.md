@@ -10,16 +10,18 @@ Utilized advanced machine learning techniques to develop a robust model forecast
 In the last two years, housing prices in Turkey have skyrocketed, quadrupling in an unprecedented surge that has reshaped the real estate landscape.
 The volatile nature of the Turkish real estate market demands accurate forecasting of housing prices.
 
+<p align="center"><img src="image/1_readme_overview_image.png" width="70%" height="70%" /></p>
+
 ## Business Problem
 This project aims to leverage predictive analytics techniques on historical housing data to develop a robust machine learning model, enabling stakeholders to
 - anticipate future price trends,
 - navigate market fluctuations,
 - make informed decisions in the evolving landscape of the Turkish housing market.
 
-The volatile nature of the Turkish real estate market demands understanding the market dynamics and accurate forecasting of housing prices.
+The volatile nature of the Turkish real estate market demands an understanding of the market dynamics and accurate forecasting of housing prices.
 
-### What is Residential Property Price Index (RPPI)?    
-Residential Property Price Index is a measure that tracks changes in the prices of residential properties over time.
+### What is the Residential Property Price Index (RPPI)?    
+The Residential Property Price Index is a measure that tracks changes in the prices of residential properties over time.
 It is a key indicator used in the field of economics and real estate to analyze and understand trends in the housing market.
 
 ### What factors contribute to changes in housing prices?
@@ -62,7 +64,7 @@ It is a key indicator used in the field of economics and real estate to analyze 
 | `net_min_wage_TRY` | Net minimum wage in TRY |
 | `gross_min_wage_TRY` | Gross minimum wage in TRY |
 | **Interest Rate**|
-| `cb_key_interest_rate` | Central Bank of Turkey key ineterest rate |
+| `cb_key_interest_rate` | Central Bank of Turkey key interest rate |
 | `avg_mortgage_interest_rate` | Average mortgage interest rate |
 | **Inflation**|
 | `Inflation_monthly_%` | Monthly inflation rate in Turkey |
@@ -74,16 +76,16 @@ It is a key indicator used in the field of economics and real estate to analyze 
 | `istanbul_housing_unit_price_tl/m2` | Average unit price per square meter in TRY |
 | **Google Trends**|
 | `inflation_google_trend_ist` | Relative search volume of word “inflation” in Istanbul, Turkey from Google Trends (0-100) |
-| `usd_exc_rate_google_trend_ist` | Relative search volume of word “dollar exchange rate” in Istanbul, Turkey from Google Trends (0-100) |
-| `real_estate_in_Turkey__Russia_google_trends` | Relative search volume of word “real estate in Turkey” in Russia from Google Trends (0-100) |
-| `Turkish_citizenship__Russia__google_trends` | Relative search volume of word “Turkish citizenship” in Russia from Google Trends (0-100) |
-| `living_in_Turkey__Russia__google_trends` | Relative search volume of word “living in Turkey” in Russia from Google Trends (0-100) |
-| `buying_a_house_in_Turkey__Iran__google_trends` | Relative search volume of word “buying a house in Turkey” in Iran from Google Trends (0-100) |
-| `Turkish_citizenship__Iran__google_trends` | Relative search volume of word “Turkish citizenship” in Iran from Google Trends (0-100) |
-| `investmen_migration__Iran__google_trends` | Relative search volume of word “investment migration” in Iran from Google Trends (0-100) |
-| `living_in_Turkey__Iran__google_trends` | Relative search volume of word “living in Turkey” in Iran from Google Trends (0-100) |
-| `life_in_Turkey__Iraq__google_trends` | Relative search volume of word “life in Turkey” in Iraq from Google Trends (0-100) |
-| `Turkish_citizenship__Iraq__google_trends` | Relative search volume of word “Turkish citizenship” in Iraq from Google Trends (0-100) |
+| `usd_exc_rate_google_trend_ist` | Relative search volume of the phrase “dollar exchange rate” in Istanbul, Turkey from Google Trends (0-100) |
+| `real_estate_in_Turkey__Russia_google_trends` | Relative search volume of the phrase “real estate in Turkey” in Russia from Google Trends (0-100) |
+| `Turkish_citizenship__Russia__google_trends` | Relative search volume of the phrase “Turkish citizenship” in Russia from Google Trends (0-100) |
+| `living_in_Turkey__Russia__google_trends` | Relative search volume of the phrase “living in Turkey” in Russia from Google Trends (0-100) |
+| `buying_a_house_in_Turkey__Iran__google_trends` | Relative search volume of the phrase “buying a house in Turkey” in Iran from Google Trends (0-100) |
+| `Turkish_citizenship__Iran__google_trends` | Relative search volume of the phrase “Turkish citizenship” in Iran from Google Trends (0-100) |
+| `investmen_migration__Iran__google_trends` | Relative search volume of the phrase “investment migration” in Iran from Google Trends (0-100) |
+| `living_in_Turkey__Iran__google_trends` | Relative search volume of the phrase “living in Turkey” in Iran from Google Trends (0-100) |
+| `life_in_Turkey__Iraq__google_trends` | Relative search volume of the phrase “life in Turkey” in Iraq from Google Trends (0-100) |
+| `Turkish_citizenship__Iraq__google_trends` | Relative search volume of the phrase “Turkish citizenship” in Iraq from Google Trends (0-100) |
 | **Residential Property Price Index (RPPI)**|
 | `res_price_index_ist` | PPI for all residential buildings in Istanbul |
 
