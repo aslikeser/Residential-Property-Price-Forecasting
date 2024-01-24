@@ -30,10 +30,17 @@ The volatile nature of the Turkish real estate market demands an understanding o
 
 <p align="center"><img src="image/4_readme_data_collection_image.png" width="800" " /></p>
 
-# Data Dictionary
+<ins>**Data Range and Frequency**</ins>   
+**Data Frequency**: Monthly      
+**Date Range**: January 2014 - August 2023   
 
+<ins>**Data Sources**</ins>       
+[Database of the Central Bank of the Republic of Turkey](https://evds2.tcmb.gov.tr/)    
+[Google Trends](https://trends.google.com/trends/)  
+
+<ins>**Data Dictionary**</ins>  
 | Column Name | Description |
-| --- | --- |
+| :--- | :--- |
 | **Supply** |
 | `const_perm_res_1_dwelling_num_of_units_public` | The number of residential units with 1 dwelling in buildings that received construction permits and will be constructed by public construction companies |
 | `const_perm_res_1_dwelling_num_of_units_coop` | The number of residential units with 1 dwelling in buildings that received construction permits and will be constructed by cooperations |
@@ -80,18 +87,9 @@ The volatile nature of the Turkish real estate market demands an understanding o
 | **Housing Price**|
 | `istanbul_housing_unit_price_tl/m2` | Average unit price per square meter in TRY |
 | **Residential Property Price Index (RPPI)**|
-| `res_price_index_ist` | PPI for all residential buildings in Istanbul |
+| `res_price_index_ist` | PPI for all residential buildings in Istanbul |  
 
-### Data Range and Frequency: 
-**Data Frequency**: Monthly      
-**Date Range**: January 2014 - August 2023   
-
-### Data Sources:
-[Database of the Central Bank of the Republic of Turkey](https://evds2.tcmb.gov.tr/)    
-[Google Trends](https://trends.google.com/trends/)    
-
-
-
+## Data Analysis
 
 
 
