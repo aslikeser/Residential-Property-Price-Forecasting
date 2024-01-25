@@ -1,7 +1,11 @@
-# Residential Property Price Index Forecasting Project
-Utilized advanced machine learning techniques to develop a robust model forecasting residential property price indices (RPPI) in Istanbul, Turkey.
+# Predictive Modeling for Residential Property Price Index in Istanbul
+This project focuses on forecasting the residential property price index (RPPI) for Istanbul using machine learning models. The goal is to provide accurate predictions for the years 2022 and 2023 based on historical data spanning from 2014 to 2021.
 
 <p align="center"><img src="image/3_readme_rppi_definition_image.png" width="800"" /></p>
+
+The forecasting of the residential property price index for Istanbul was approached by employing regression models with diverse parameters to predict the continuous quantity of the index. Eight years of historical data spanning from 2014 to 2021 were leveraged, and a comprehensive exploration and hyperparameter optimization process was undertaken to ensure optimal model performance.
+
+A total of 26,400 machine learning models were trained, considering various regression models and hyperparameter settings, resulting in the selection of the most effective predictor.
 
 **Authors and Contact Information:** 
 - [Asli Keser](https://github.com/aslikeser)
