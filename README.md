@@ -18,7 +18,7 @@ The volatile nature of the Turkish real estate market demands accurate forecasti
 
 <p align="center"><img src="image/1_readme_overview_image.png" width="800" /></p>
 
-Also, in the last two years, the number of years spent to save a **30% down payment** for a **750 sq ft apartment** with the assumption that **the amount of net minimum wage saved every month** got as high as **13.3 years**. 
+Also, in the last two years, the number of years spent to save a **30% down payment** for a **750 sq ft apartment** assuming that **the amount of net minimum wage saved every month** got as high as **13.3 years**. 
 
 <p align="center"><img src="image/2_readme_overview_image.png" width="800" " /></p>
 
@@ -113,23 +113,34 @@ For a more detailed exploration of these findings and the impact of government p
 ## Machine Learning Model
 In our pursuit of creating a forecasting model for the residential property price index, the focus of this project lies in predicting a continuous quantity rather than a categorical outcome. To achieve this, we employed regression models with diverse parameters, utilizing historical data spanning eight years (2014 to 2021). The primary objective was to accurately forecast the residential property price index for Istanbul in the years 2022 and 2023.
 
-Ensuring optimal performance of our model necessitated the exploration of various hyperparameters in machine learning. Through a thorough examination of different regression models and careful consideration of hyperparameter settings, we embarked on the training of an extensive array of 26,400 machine learning models. This exhaustive approach allowed us to identify and select the best-performing model, ensuring its efficacy in predicting the residential property price index with precision and reliability.
+Ensuring optimal performance of our model necessitated the exploration of various hyperparameters in machine learning. Through a meticulous examination of different regression models and careful consideration of hyperparameter settings, we embarked on the training of an extensive array of 26,400 machine learning models. This exhaustive approach allowed us to identify and select the best-performing model, ensuring its efficacy in predicting the residential property price index with precision and reliability.
 
+## Future Insights
+1. **Expanded Training Data:**
+- Optimize the machine learning model by leveraging 8.5 years of historical data as training data, providing an extended timeframe to discern the nuanced impact of foreign investment on the dynamics of the Turkish real estate market.
+- A larger dataset can enhance the model's ability to capture nuanced patterns and variations in the real estate market.
 
-__Note:__ From “Eksi Sozluk” aka “Reddit of Turkey”, extract every entry relating to buying a house and apply sentiment analysis to reflect how Turkish people’s opinion of buying a house is affected by the volatility of the real estate market this will help the predictive model to take into account the speculation component of real estate market.
+2. **Diverse Model Training:**
+- Expand the scope of model training by experimenting with a wider range of hyperparameters.
+- This iterative approach can help identify the most optimal model configuration for predicting real estate price fluctuations.
 
-# Roadmap
-1) Data Collection
-2) Data Cleaning and Processing
-3) Exploratory Data Analysis (EDA)
-4) Model Selection
-  - Linear Regression Model
-  - Time Series Analysis
-  - NLP
-6) Model Training
-7) Model Evaluation
-  - Linear Regression Model -> R-squared & RMSE
-8) Validation and Optimization
+3. **Time Series Analysis:**
+- Apply time series analysis to delve deeper into historical real estate price fluctuations.
+- Explore seasonality, trends, and cyclical patterns in the data, providing valuable insights for understanding the temporal dynamics of the Turkish real estate market.
+
+4. **Improving Representation of Foreign Interest:**
+- Investigate methods to better represent foreign interest in the Turkish real estate market.
+- This may involve refining existing data sources or exploring new avenues for obtaining comprehensive and accurate information on foreign investments.
+
+5. **Web Scraping for Insights:**
+- Explore the use of web scraping techniques on foreign websites to gather real-time and detailed insights into the dynamics of foreign interest in the Turkish real estate market.
+- This approach can provide a more granular understanding of market trends and investor sentiments.
+
+## Additional Resources
+
+## For More Information
+Please visit ...
+
 
 
 
