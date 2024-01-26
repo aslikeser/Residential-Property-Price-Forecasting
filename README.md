@@ -115,7 +115,7 @@ In our pursuit of creating a forecasting model for the residential property pric
 
 Ensuring optimal performance of our model necessitated the exploration of various hyperparameters in machine learning. Through a meticulous examination of different regression models and careful consideration of hyperparameter settings, we embarked on the training of an extensive array of 26,400 machine learning models. This exhaustive approach allowed us to identify and select the best-performing model, ensuring its efficacy in predicting the residential property price index with precision and reliability.
 
-## Planned Improvements
+## Improvements in Progress
 1. **Expanded Training Data:**
 - Optimize the machine learning model by leveraging 8.5 years of historical data as training data, providing an extended timeframe to discern the nuanced impact of foreign investment on the dynamics of the Turkish real estate market.
 - A larger dataset can enhance the model's ability to capture nuanced patterns and variations in the real estate market.
