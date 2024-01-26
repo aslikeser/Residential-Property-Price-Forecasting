@@ -22,6 +22,8 @@ Also, in the last two years, the number of years spent to save a **30% down paym
 
 <p align="center"><img src="image/2_readme_overview_image.png" width="800" " /></p>
 
+In the State of New Jersey, ranked among the top 10 costliest housing markets in the USA, saving for a 30% down payment on a 750 sq ft apartment takes approximately 7.2 years. This marks a notably shorter period compared to the 13.3 years observed in Istanbul over the last two years.
+
 ## Business Problem
 This project aims to leverage predictive analytics techniques on historical housing data to develop a robust machine learning model, enabling stakeholders to
 - anticipate future price trends,
