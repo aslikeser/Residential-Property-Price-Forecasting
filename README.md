@@ -136,15 +136,25 @@ Ensuring optimal performance of our model necessitated the exploration of variou
 - Explore the use of web scraping techniques on foreign websites to gather real-time and detailed insights into the dynamics of foreign interest in the Turkish real estate market.
 - This approach can provide a more granular understanding of market trends and investor sentiments.
 
-## Additional Resources
+<!--- ## Additional Resources --->
 
 ## For More Information
-Please visit ...
+For any inquiries, suggestions, or just a friendly chat, I'm here to connect! Feel free to reach out to me on LinkedIn. Your thoughts and insights are always valued, and I look forward to hearing from you. Let's collaborate and make this project even better together!
 
+## Repository Structure
+You are in the README.md. 
+'Google_Play_Store_App_Rating_Models_Predictions.ipynb  ' contains the jupyter notebook that explains our data science steps for you to replicate. 'Google_Play_Store_App_Rating_Models_Predictions._Presentation.pdf ' contains our presentation slides that sum up important information for our audience. 
+In 'Data' you will be able to see the datasets we worked with. 
+Likewise, 'image' will contain images used.
 
+```bash
 
+├── data                                                                             <- Folder consisting dataset used in this project
 
+├── image                                                                            <- Folder consisting images used in this project
 
+├── Google_Play_Store_App_Rating_Models_Predictions._Presentation.pdf                <- Slide Presentation of the project
 
+├── Google_Play_Store_App_Rating_Models_Predictions.ipynb                            <- Notebook of the project
 
-
+├── README.md                                                                        <- Contains README file consisting summary of the project
