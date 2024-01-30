@@ -150,12 +150,12 @@ The '[Image](https://github.com/aslikeser/residential-property-price-index-predi
 
 ```bash
 
-├── data                                     <- Folder consisting of datasets used in this project
+├── data                                 <- Folder consisting of datasets used in this project
 
-├── image                                    <- Folder consisting of images used in this project
+├── image                                <- Folder consisting of images used in this project
 
-├── rppi-prediction-presentation.pdf         <- Slide Presentation of the project
+├── rppi-prediction-presentation.pdf     <- Slide Presentation of the project
 
-├── rppi-prediction.ipynb                    <- Jupyter Notebook of the project
+├── rppi-prediction.ipynb                <- Jupyter Notebook of the project
 
-├── README.md                                <- README file consisting of a summary of the project
+├── README.md                            <- README file consisting of a summary of the project
