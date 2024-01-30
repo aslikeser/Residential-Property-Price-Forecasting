@@ -144,7 +144,7 @@ For any inquiries, suggestions, or just a friendly chat, I'm here to connect! Fe
 ## Repository Structure
 You are in the README.md.    
 'rppi-prediction.ipynb' is the jupyter notebook providing a comprehensive exploration of the machine learning model building process.   
-'rppi-prediction-presentation.pdf' is the presentation summarizing essential information from the predictive analytics model, tailored for a non-technical audience.      
+'[rppi-prediction-presentation.pdf](https://github.com/aslikeser/residential-property-price-index-prediction/blob/main/rppi-prediction-presentation.pdf)' is the presentation summarizing essential information from the predictive analytics model, tailored for a non-technical audience.      
 The 'Data' folder provides access to the datasets utilized in this work.   
 The 'Image' folder is dedicated to showcasing the images used within this readme file.
 
