@@ -139,7 +139,7 @@ Ensuring optimal performance of our model necessitated the exploration of variou
 <!--- ## Additional Resources --->
 
 ## For More Information
-For any inquiries, suggestions, or just a friendly chat, I'm here to connect! Feel free to reach out to me on LinkedIn. Your thoughts and insights are always valued, and I look forward to hearing from you. Let's collaborate and make this project even better together!
+For any inquiries, suggestions, or just a friendly chat, I'm here to connect! Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/asli-keser/). Your thoughts and insights are always valued, and I look forward to hearing from you. Let's collaborate and make this project even better together!
 
 ## Repository Structure
 You are in the README.md. 
