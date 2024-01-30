@@ -142,19 +142,20 @@ Ensuring optimal performance of our model necessitated the exploration of variou
 For any inquiries, suggestions, or just a friendly chat, I'm here to connect! Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/asli-keser/). Your thoughts and insights are always valued, and I look forward to hearing from you. Let's collaborate and make this project even better together!
 
 ## Repository Structure
-You are in the README.md. 
-'Google_Play_Store_App_Rating_Models_Predictions.ipynb  ' contains the jupyter notebook that explains our data science steps for you to replicate. 'Google_Play_Store_App_Rating_Models_Predictions._Presentation.pdf ' contains our presentation slides that sum up important information for our audience. 
-In 'Data' you will be able to see the datasets we worked with. 
-Likewise, 'image' will contain images used.
+You are in the README.md.    
+'rppi-prediction.ipynb' is the jupyter notebook providing a comprehensive exploration of the machine learning model building process.   
+'rppi-prediction-presentation.pdf' is the presentation summarizing essential information from the predictive analytics model, tailored for a non-technical audience.      
+The 'Data' folder provides access to the datasets utilized in this work.   
+The 'Image' folder is dedicated to showcasing the images used within this readme file.
 
 ```bash
 
-├── data                                                                             <- Folder consisting dataset used in this project
+├── data                                                                             <- Folder consisting of datasets used in this project
 
-├── image                                                                            <- Folder consisting images used in this project
+├── image                                                                            <- Folder consisting of images used in this project
 
-├── Google_Play_Store_App_Rating_Models_Predictions._Presentation.pdf                <- Slide Presentation of the project
+├── rppi-prediction-presentation.pdf                                                 <- Slide Presentation of the project
 
-├── Google_Play_Store_App_Rating_Models_Predictions.ipynb                            <- Notebook of the project
+├── rppi-prediction.ipynb                                                            <- Jupyter Notebook of the project
 
-├── README.md                                                                        <- Contains README file consisting summary of the project
+├── README.md                                                                        <- README file consisting of a summary of the project
