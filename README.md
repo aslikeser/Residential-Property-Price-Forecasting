@@ -142,11 +142,11 @@ Ensuring optimal performance of our model necessitated the exploration of variou
 For any inquiries, suggestions, or just a friendly chat, I'm here to connect! Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/asli-keser/). Your thoughts and insights are always valued, and I look forward to hearing from you. Let's collaborate and make this project even better together!
 
 ## Repository Structure
-You are in the README.md.    
-'rppi-prediction.ipynb' is the jupyter notebook providing a comprehensive exploration of the machine learning model building process.   
-'[rppi-prediction-presentation.pdf](https://github.com/aslikeser/residential-property-price-index-prediction/blob/main/rppi-prediction-presentation.pdf)' is the presentation summarizing essential information from the predictive analytics model, tailored for a non-technical audience.      
-The 'Data' folder provides access to the datasets utilized in this work.   
-The 'Image' folder is dedicated to showcasing the images used within this readme file.
+You are in the README.md.       
+'[rppi-prediction.ipynb](https://github.com/aslikeser/residential-property-price-index-prediction/blob/main/rppi-prediction.ipynb.zip)' is the jupyter notebook providing a comprehensive exploration of the machine learning model building process.       
+'[rppi-prediction-presentation.pdf](https://github.com/aslikeser/residential-property-price-index-prediction/blob/main/rppi-prediction-presentation.pdf)' is the presentation summarizing essential information from the predictive analytics model, tailored for a non-technical audience.          
+The 'Data' folder provides access to the datasets utilized in this work.       
+The 'Image' folder is dedicated to showcasing the images used within this readme file.     
 
 ```bash
 
