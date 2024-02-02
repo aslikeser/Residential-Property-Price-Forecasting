@@ -36,7 +36,7 @@ The volatile nature of the Turkish real estate market demands an understanding o
 
 <p align="center"><img src="image/4_readme_data_collection_image.png" width="800" " /></p>
 
-<ins>**Data Range and Frequency**</ins>   
+<ins>**Date Range and Frequency**</ins>   
 **Data Frequency**: Monthly      
 **Date Range**: January 2014 - August 2023   
 
@@ -63,7 +63,7 @@ The volatile nature of the Turkish real estate market demands an understanding o
 | `Inflation_monthly_%` | Monthly inflation rate in Turkey |
 | `Inflation_yearly_%` | Yearly inflation rate in Turkey |
 | **Interest Rate**|
-| `cb_key_interest_rate` | Central Bank of Turkey key interest rate |
+| `cb_key_interest_rate` | Central Bank of the Republic of Turkey's key interest rate |
 | `avg_mortgage_interest_rate` | Average mortgage interest rate |
 | **Minimum Wage**|
 | `net_min_wage_TRY` | Net minimum wage in TRY |
